@@ -1,4 +1,4 @@
-import styles from './app.scss';
+import './app.scss';
 
 const test = 'It Works!!!!!!!!!!';
 
